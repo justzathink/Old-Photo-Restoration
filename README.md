@@ -31,7 +31,7 @@ FACULTY OF COMPUTER SCIENCE AND ENGINEERING
 
 ## Requirements
 In this project, we aim to develop an AI-driven solution for photo restoration leveraging GFPGAN (Generative Facial Prior GAN). Photo restoration is a crucial task that involves reviving and enhancing old, damaged, or low-quality images, particularly for preserving memories, cultural heritage, or historical archives.
-Details: <[Old_photo_restoration.pdf](https://github.com/Khai-vuong/Old-Photo-Restoration/blob/main/doc/Old_photo_restoration.pdf)>
+Details: <[Old_photo_restoration.pdf](doc/Old_photo_restoration.pdf)>
 
 ## Languages & Tools
 <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" 
