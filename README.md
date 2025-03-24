@@ -30,7 +30,7 @@ FACULTY OF COMPUTER SCIENCE AND ENGINEERING
   <img src="https://github.com/justzathink/Old-Photo-Restoration/blob/main/doc/Figure_4.png">
 </p>
 <p align="center">
-  <img src="https://github.com/justzathink/Old-Photo-Restoration/blob/main/doc/Figure_5.png">
+  <img src="https://github.com/justzathink/Old-Photo-Restoration/blob/main/doc/Figure_5.jpg">
 </p>
 ## Team members
 
