@@ -17,6 +17,27 @@ FACULTY OF COMPUTER SCIENCE AND ENGINEERING
 </div>
 
 # Project: FINE-TUNNING GFP-GAN FOR PHOTO RESTORATION
+<img src="doc/Figure_1" 
+        align="center" 
+        style="margin-bottom:5px;" 
+        alt="React Logo"/>
+<img src="doc/Figure_2" 
+        align="center" 
+        style="margin-bottom:5px;" 
+        alt="React Logo"/>
+<img src="doc/Figure_3" 
+        align="center" 
+        style="margin-bottom:5px;" 
+        alt="React Logo"/>
+<img src="doc/Figure_4" 
+        align="center" 
+        style="margin-bottom:5px;" 
+        alt="React Logo"/>
+<img src="doc/Figure_5" 
+        align="center" 
+        style="margin-bottom:5px;" 
+        alt="React Logo"/>
+
 ## Team members
 
 | No. | Name             | Student ID | Email                          | Contact                                                                                                                                                                                                                     |
@@ -68,11 +89,11 @@ PYTHON
         align="center" 
         style="margin-left:10px; margin-bottom:5px;" 
         width="70px" 
-        alt="React Logo"/>
+        alt="Python Logo"/>
     
 GOOGLE COLAB
 <img src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Google_Colaboratory_SVG_Logo.svg" 
          align="center" 
          style="margin-left:10px; margin-bottom:5px;" 
          width="70px" 
-         alt="Express Logo" />
+         alt="Google Colab Logo" />
