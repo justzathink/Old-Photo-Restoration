@@ -16,7 +16,7 @@ FACULTY OF COMPUTER SCIENCE AND ENGINEERING
 
 </div>
 
-# Project: OLD PHOTO RESTORATION USING GFPGAN - HCMUT
+# Project: FINE-TUNNING GFP-GAN FOR PHOTO RESTORATION
 ## Team members
 
 | No. | Name             | Student ID | Email                          | Contact                                                                                                                                                                                                                     |
@@ -29,9 +29,38 @@ FACULTY OF COMPUTER SCIENCE AND ENGINEERING
 [git2]: https://github.com/justzathink/
 [git3]: https://github.com/justzathink/
 
-## Requirements
+## Requirements 🔗
 In this project, we aim to develop an AI-driven solution for photo restoration leveraging GFPGAN (Generative Facial Prior GAN). Photo restoration is a crucial task that involves reviving and enhancing old, damaged, or low-quality images, particularly for preserving memories, cultural heritage, or historical archives.
 Details: <[Old_photo_restoration.pdf](doc/Old_photo_restoration.pdf)>
+
+## Skills Acquired 🚀
+1. Model Fine-Tuning & Customization
+Learned how to fine-tune a pre-trained model (GFP-GAN) for specific restoration tasks.
+Modified code and dependencies to enhance the model’s ability to restore grayscale images.
+
+2. Deep Learning Frameworks & Libraries
+Gained experience working with PyTorch, BasicSR, and facexlib.
+Understood how to install, manage, and modify dependencies to fit project needs.
+
+3. Preprocessing & Data Handling
+Implemented custom image uploading and processing pipelines.
+Learned how to manage image datasets for restoration tasks.
+
+4. Colab & GPU Acceleration
+Leveraged Google Colab for running deep learning models efficiently.
+Managed GPU resources to optimize inference speed.
+
+5. Model Deployment & Usage
+Understood how to download and use pre-trained models.
+Modified and ran inference scripts to test real-world applications.
+
+## Applications 🎯
+Restoring old or damaged black-and-white photos by enhancing facial details and improving overall clarity.
+Enhancing low-quality or degraded images for historical preservation.
+Potential integration into applications for automatic image enhancement, such as mobile apps or online services.
+
+##Conclusion 🏁
+Through this project, Our team developed a deeper understanding of deep learning-based image restoration. The hands-on experience with GFP-GAN, PyTorch, and image processing has prepared me for future work in AI-based image enhancement, computer vision, and model fine-tuning for real-world applications.
 
 ## Languages & Tools
 <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" 
