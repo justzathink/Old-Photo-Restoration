@@ -59,17 +59,18 @@ Restoring old or damaged black-and-white photos by enhancing facial details and 
 Enhancing low-quality or degraded images for historical preservation.
 Potential integration into applications for automatic image enhancement, such as mobile apps or online services.
 
-##Conclusion 🏁
+## Conclusion 🏁
 Through this project, Our team developed a deeper understanding of deep learning-based image restoration. The hands-on experience with GFP-GAN, PyTorch, and image processing has prepared me for future work in AI-based image enhancement, computer vision, and model fine-tuning for real-world applications.
 
 ## Languages & Tools
+PYTHON
 <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" 
         align="center" 
         style="margin-left:10px; margin-bottom:5px;" 
         width="70px" 
         alt="React Logo"/>
     
-    
+GOOGLE COLAB
 <img src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Google_Colaboratory_SVG_Logo.svg" 
          align="center" 
          style="margin-left:10px; margin-bottom:5px;" 
