@@ -17,27 +17,21 @@ FACULTY OF COMPUTER SCIENCE AND ENGINEERING
 </div>
 
 # Project: FINE-TUNNING GFP-GAN FOR PHOTO RESTORATION
-<img src="doc/Figure_1" 
-        align="center" 
-        style="margin-bottom:5px;" 
-        alt="React Logo"/>
-<img src="doc/Figure_2" 
-        align="center" 
-        style="margin-bottom:5px;" 
-        alt="React Logo"/>
-<img src="doc/Figure_3" 
-        align="center" 
-        style="margin-bottom:5px;" 
-        alt="React Logo"/>
-<img src="doc/Figure_4" 
-        align="center" 
-        style="margin-bottom:5px;" 
-        alt="React Logo"/>
-<img src="doc/Figure_5" 
-        align="center" 
-        style="margin-bottom:5px;" 
-        alt="React Logo"/>
-
+<p align="center">
+  <img src="https://github.com/justzathink/Old-Photo-Restoration/blob/main/doc/Figure_1.png">
+</p>
+<p align="center">
+  <img src="https://github.com/justzathink/Old-Photo-Restoration/blob/main/doc/Figure_2.png">
+</p>
+<p align="center">
+  <img src="https://github.com/justzathink/Old-Photo-Restoration/blob/main/doc/Figure_3.png">
+</p>
+<p align="center">
+  <img src="https://github.com/justzathink/Old-Photo-Restoration/blob/main/doc/Figure_4.png">
+</p>
+<p align="center">
+  <img src="https://github.com/justzathink/Old-Photo-Restoration/blob/main/doc/Figure_5.png">
+</p>
 ## Team members
 
 | No. | Name             | Student ID | Email                          | Contact                                                                                                                                                                                                                     |
