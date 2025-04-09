@@ -32,6 +32,7 @@ FACULTY OF COMPUTER SCIENCE AND ENGINEERING
 <p align="center">
   <img src="https://github.com/justzathink/Old-Photo-Restoration/blob/main/doc/Figure_5.jpg">
 </p>
+
 ## Team members
 
 | No. | Name             | Student ID | Email                          | Contact                                                                                                                                                                                                                     |
